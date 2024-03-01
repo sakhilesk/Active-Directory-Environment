@@ -25,8 +25,10 @@
        Deployment configuration (add a new forest)
        - Domain name (Mydoamin.com)
 <br>
-      
+
   </h3>
+
+  ![create windows serve vm](https://github.com/sakhilesk/Active-Directory-Environment/assets/89784327/c07d0424-8b38-47c1-b618-76703cb64713)
 
 <h2>Utilities Used</h2>
 

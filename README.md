@@ -52,8 +52,10 @@
 <h2>Create Client server windows 10</h2>
 <h3>Configure the vm to use internet network</h3>
 
-![Sentinel](https://github.com/sakhilesk/Sentinel-Lab/assets/89784327/d0421cdd-abf1-43f8-ba4f-d5799bcc6291)
-
+<h3>Change host name (Client1)
+  -member of Domain put your AD Domain name 
+  - Log on to client using new password and user assigned
+</h3>
 <!--
  ```diff
 - text in red

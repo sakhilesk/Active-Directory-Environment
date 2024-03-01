@@ -32,17 +32,20 @@
 
   ![create  AD DS](https://github.com/sakhilesk/Active-Directory-Environment/assets/89784327/59c24684-d5cb-428a-91db-0d41d150412b)
 
-  
-  
-  
+<h2>
+       - allow client to still access internet even on private network (RAS/ NAT)
+       - create remote access feature
+       - router and remote access (allow client to connect to the internet using on oublic IP Address)
+</h2>
+<h2>Setup DHCP server</h2>
 
-
-
-<h2>Utilities Used</h2>
-
-- <b>ipgeolocation.io:</b> IP Address to Geolocation API
-
-<h2>Attacks from all over the world coming in; Custom logs being output with geodata</h2>
+<h2>
+       - DHCP server feature install
+       - DHCP setup our scope on tools
+       - DHCP setup router IP on options server
+       - Powershell Script to create users accounts
+       
+</h2>
 
 ![Powershell log](https://github.com/sakhilesk/Sentinel-Lab/assets/89784327/ce31f142-8dab-4529-88ad-03c1eae4430f)
 

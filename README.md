@@ -47,9 +47,10 @@
        
 </h2>
 
-![Powershell log](https://github.com/sakhilesk/Sentinel-Lab/assets/89784327/ce31f142-8dab-4529-88ad-03c1eae4430f)
+![DHCP configure](https://github.com/sakhilesk/Active-Directory-Environment/assets/89784327/f9e55a89-73e2-4da9-96b6-6625b81090bf)
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+<h2>Create Client server windows 10</h2>
+<h3>Configure the vm to use internet network</h3>
 
 ![Sentinel](https://github.com/sakhilesk/Sentinel-Lab/assets/89784327/d0421cdd-abf1-43f8-ba4f-d5799bcc6291)
 

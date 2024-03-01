@@ -9,13 +9,24 @@
 <br />
 <br />
 
-![api key](https://github.com/sakhilesk/Sentinel-Lab/assets/89784327/b43f91de-4633-4407-9d74-01e5b994b8b1)
-<p align="center">
-<h1 RDP event fail logs to iP Geographic information"/>
-</p>
-<h2>Languages Used</h2>
+![user creator](https://github.com/sakhilesk/Active-Directory-Environment/assets/89784327/a2fc4895-49d8-4281-8166-37a1d304f3fa)
 
-- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
+<p align="center">
+<h1 Script for creating new users automatically in the Windows server computer"/>
+</p>
+<h2>Create Windows server VM</h2>
+
+- <h3> - Create a vm on Oracle Virtualbox(Windows server 2019)
+       - Assign a IP Address for the internal network and loop back IP
+       - Domain /AD DS 
+       -Add roles and features 
+       - Server Selection (default)
+       -AD Domain server install
+       Deployment configuration (add a new forest)
+       - Domain name (Mydoamin.com)
+<br>
+      
+  </h3>
 
 <h2>Utilities Used</h2>
 

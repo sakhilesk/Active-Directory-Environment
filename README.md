@@ -27,12 +27,12 @@
 <br>
 
   </h3>
-
+  
   ![create windows serve vm](https://github.com/sakhilesk/Active-Directory-Environment/assets/89784327/c07d0424-8b38-47c1-b618-76703cb64713)
-<br>
 
+  ![create  AD DS](https://github.com/sakhilesk/Active-Directory-Environment/assets/89784327/59c24684-d5cb-428a-91db-0d41d150412b)
 
-  <br>
+  
   
   
 
